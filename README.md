@@ -2,7 +2,9 @@
 First Python Assignment 
 
 -Code consits of string and integar variables and arithmetics 
+
 -Every problem has its own unique outcome
+
 -There are also three regular text questions
 
 List of the problems and questions: 
