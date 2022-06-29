@@ -4,7 +4,7 @@ Code consits of string and integar variables and arithmetics
 Every problem has its own unique outcome
 There are also three regular text questions
 
-List of the problems adn questions: 
+List of the problems and questions: 
 
 1. 	Accept the user's first and last name and print them in reverse order with a space between them
 2.  Accept an integer for "n" from the user and then compute the value of "n+nn+nnn"
